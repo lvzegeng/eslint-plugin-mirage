@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-mirage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mirage 项目定制的Eslint规则",
   "keywords": [
     "eslint",
