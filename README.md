@@ -23,8 +23,8 @@ Add `mirage` to the plugins section of your `.eslintrc` configuration file. You 
 
 ```json
 {
-    "plugins": [
-        "mirage"
+    "extends": [
+        "plugin:mirage/recommended"
     ]
 }
 ```
